@@ -1,2 +1,2 @@
 # Javascript-Projects
-Vanilla javascript projects just for learning purpose.  
+Vanilla javascript projects just for ( DOM and events basics ) learning purpose.
